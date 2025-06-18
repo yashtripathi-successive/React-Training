@@ -6,7 +6,7 @@ function TaskList({task}) {
           <ul>
           {task.map((t) => (
           <li key={t.id}>
-           {t.title}: {t.description}
+           {t.title}
           </li>
           ))}
            </ul>
