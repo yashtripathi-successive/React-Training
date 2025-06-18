@@ -9,9 +9,9 @@ import Buttonfc from "@/components/Buttonfc"
 
 import { useEffect,useState } from "react";
 export default function Home() {
+  
 
 /*Q6 */
-
 let text = 'hi i am yash'
 let color = 'blue'
 
