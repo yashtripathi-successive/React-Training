@@ -17,6 +17,8 @@ import EmployeeSalary from "@/components/EmployeeSalary";
 import ListOfTasks from "@/components/ListOfTasks";
 import Parent from "@/components/parent-child/Parent";
 import UseClipboardChecking from "@/components/UseClipboardChecking";
+import UseLocalStorage from "@/components/UseLocalStorage";
+import UseLocalStorageChecking from "@/components/UseLocalStorageChecking";
 
 
 
@@ -57,6 +59,9 @@ export default function Home() {
 {/* <Parent/> */}
 {/* <Counter/> */}
 {/* <SlideShow/> */}
+
+{/* <UseLocalStorageChecking/> */}
+{/* <UseClipboardChecking/> */}
 
 
     </div>
