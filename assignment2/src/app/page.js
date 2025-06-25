@@ -19,6 +19,10 @@ import Parent from "@/components/parent-child/Parent";
 import UseClipboardChecking from "@/components/UseClipboardChecking";
 import UseLocalStorage from "@/components/UseLocalStorage";
 import UseLocalStorageChecking from "@/components/UseLocalStorageChecking";
+import ShoppingCartProvider from "@/context/ShoppingCart";
+import Products from "@/components/shoppingart/Products";
+import Shopping from "@/components/shoppingart/Shopping";
+import VotingApp from "@/components/VotingApp";
 
 
 
@@ -60,8 +64,19 @@ export default function Home() {
 {/* <Counter/> */}
 {/* <SlideShow/> */}
 
-{/* <UseLocalStorageChecking/> */}
+{/* <UseLocalStorageChecking/>  */}
 {/* <UseClipboardChecking/> */}
+
+{/* 
+    <ShoppingCartProvider>
+    <Products/>
+
+    <Shopping/>
+    </ShoppingCartProvider> */}
+
+
+    <VotingApp/>
+
 
 
     </div>
