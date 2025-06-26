@@ -23,6 +23,7 @@ import ShoppingCartProvider from "@/context/ShoppingCart";
 import Products from "@/components/shoppingart/Products";
 import Shopping from "@/components/shoppingart/Shopping";
 import VotingApp from "@/components/VotingApp";
+import UseTimerChecking from "@/components/UseTimerChecking";
 
 
 
@@ -75,8 +76,10 @@ export default function Home() {
     </ShoppingCartProvider> */}
 
 
-    <VotingApp/>
+    {/* <VotingApp/> */}
 
+
+<UseTimerChecking/>
 
 
     </div>
