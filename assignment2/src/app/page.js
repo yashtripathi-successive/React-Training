@@ -52,14 +52,14 @@ export default function Home() {
       <ThemeSwitcherApplication />
       </ThemeProvider> */}
 
-  {/* <LangProvider>
+      {/* <LangProvider>
       <LanguageSwitcherApplication/>
       </LangProvider>     */}
   
     {/* <StudentList/> */}
 
 
-    {/* <EmployeeSalary/> */}
+    <EmployeeSalary/>
     {/* <ListOfTasks/> */}
 {/* <Parent/> */}
 {/* <Counter/> */}
@@ -68,8 +68,8 @@ export default function Home() {
 {/* <UseLocalStorageChecking/>  */}
 {/* <UseClipboardChecking/> */}
 
-{/* 
-    <ShoppingCartProvider>
+
+    {/* <ShoppingCartProvider>
     <Products/>
 
     <Shopping/>
@@ -79,7 +79,17 @@ export default function Home() {
     {/* <VotingApp/> */}
 
 
-<UseTimerChecking/>
+     {/* <UseTimerChecking/> */}
+
+     {/* <Counter/> */}
+
+     {/* <PersonForm/> */}
+     {/* <ToDoList/> */}
+     {/* <RandomNumberGenerator/> */}
+     {/* <CounterWithStep/> */}
+     {/* <Clock/> */}
+     {/* <Notification/> */}
+     {/* <SlideShow/> */}
 
 
     </div>
