@@ -27,6 +27,7 @@ function Page() {
 
   return (
     <div>
+      <h1>Registraion Form</h1>
       <form onSubmit={handlesubmit}>
 
 

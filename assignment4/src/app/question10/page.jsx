@@ -43,8 +43,7 @@ export default function FormPage() {
       ...prev,[name]:value
     }))
 
-    setErrors((prev)=>(
-      {
+    setErrors((prev)=>({
         ...prev,[name]:''
       }
     ))
