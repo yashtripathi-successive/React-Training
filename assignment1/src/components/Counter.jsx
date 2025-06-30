@@ -2,10 +2,10 @@
 
 function Counter({count,setCount}) {
     function increment_value(){
-        setCount(count+1);
+        setCount((prev)=> prev+1);
     }
      function decrement_value(){
-        setCount(count-1);
+        setCount((prev)=> prev-1);
     }
     
     return (  
