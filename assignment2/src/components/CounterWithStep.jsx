@@ -5,7 +5,7 @@ function CounterWithStep() {
 
 
     const[count,setCount] = useState(0)
-    const [stepValue,setStepValue] = useState('')
+    const [stepValue,setStepValue] = useState(0)
 
     function incrementCount(){
         

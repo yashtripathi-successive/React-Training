@@ -59,7 +59,7 @@ export default function Home() {
     {/* <StudentList/> */}
 
 
-    <EmployeeSalary/>
+    {/* <EmployeeSalary/> */}
     {/* <ListOfTasks/> */}
 {/* <Parent/> */}
 {/* <Counter/> */}
@@ -88,8 +88,8 @@ export default function Home() {
      {/* <RandomNumberGenerator/> */}
      {/* <CounterWithStep/> */}
      {/* <Clock/> */}
-     {/* <Notification/> */}
-     {/* <SlideShow/> */}
+     {/* <Notification/>
+     <SlideShow/> */}
 
 
     </div>

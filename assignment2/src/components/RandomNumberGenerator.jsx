@@ -15,7 +15,7 @@ function RandomNumberGenerator() {
 
       <p>Random Number is currently : {randomNumber}</p>
 
-      <button onClick={generateNewNumber}> Click to Generate New Randonm Number</button>
+      <button onClick={generateNewNumber}> Generate Randonm Number</button>
 
       </div>
 
