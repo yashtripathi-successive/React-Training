@@ -25,7 +25,9 @@ function Page() {
                 } else {
                     setError(`Error: ${error.message}`)
                 }
-            } else {
+            } 
+            
+            else {
                
                 setError("An unexpected error occurred.")
             }
