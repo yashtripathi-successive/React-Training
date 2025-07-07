@@ -1,0 +1,31 @@
+
+.tasklist,
+.weather,
+.usercard,
+.greeting,
+.counter,
+.button {
+  background-color: #f8fafc; 
+  text-align: center;
+  font-weight: 500;
+  color: #3c73b8;
+  margin: 20px auto;
+  padding: 20px;
+
+}
+
+
+
+
+hr {
+  border: none;
+
+  margin: 10px
+}
+
+
+.container {
+  padding-top: 40px;
+  padding-bottom: 40px;
+
+}
